@@ -6,7 +6,7 @@ This project utilizes the Brazilian E-Commerce Public Dataset from Olist to anal
 
 - [Project Highlights](#project-highlights)
 - [Objective](#objective)
-- [Tools]
+- [Tools](#tools)
 ---
 ### Project Highlights
 
